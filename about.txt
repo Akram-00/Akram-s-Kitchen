@@ -1,0 +1,6 @@
+This is a one paged Static website created by  @Akram
+This is hotel or pizza delivery website
+written with pure html and css with basic syntax
+ 
+to run the this file download the zip folder
+and open it thorough the any browser you have
